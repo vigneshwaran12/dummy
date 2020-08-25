@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/vigneshwaran/work/embold-tests/c_prj/build",
+  "command": "/usr/bin/cc     -o CMakeFiles/vikki.dir/first_prj.c.o   -c /home/vigneshwaran/work/embold-tests/c_prj/first_prj.c",
+  "file": "/home/vigneshwaran/work/embold-tests/c_prj/first_prj.c"
+}
+]
