@@ -13,5 +13,6 @@ int main() {
 	//modify readonly memory
 	*p = 'v';
 	printf("%s\n", p);
+	printf("%s\n", p);
 	return 0;
 }
